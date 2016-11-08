@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="btn_restart">Restart</string>
+    <string name="text_current_score">Score: %2$d</string>
+    <string name="rstSB">Restart</string>
+    <string name="loseMessage">You lose</string>
+    <string name="flagModeSwitch">Flag Mode</string>
+    <string name="winMessage">You win!!</string>
+</resources>
