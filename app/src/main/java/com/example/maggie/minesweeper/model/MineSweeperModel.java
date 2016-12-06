@@ -90,7 +90,6 @@ public class MineSweeperModel {
                 }
             }
         }
-    //THIS IS PRESUMABLY THE PROBLEM METHOD
     public boolean isFlag(int x, int y){
         if(model[x][y]==FLAG){
             return true;
